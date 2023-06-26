@@ -20,7 +20,7 @@ const Home = () => {
 
                 <div className="p3">
                   <a href="http://">Sign Up</a>
-                  <a href="http://">Log In</a>
+                  <a href="http://localhost:5173/register">Log In</a>
                 </div>
               </div>
 
